@@ -35,7 +35,7 @@ body {
 
 .music-dom {
   width: 100vw;
-  min-width: 1366px;
+/*   min-width: 1366px; */
   min-height: 100%;
   display: inline-block;
 }
@@ -425,7 +425,7 @@ body {
   background-color: #efefef;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.4);
   display: flex;
-  min-width: 1366px;
+/*   min-width: 1366px; */
   transition: all 0.5s;
 }
 .music-knock--close {
